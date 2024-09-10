@@ -1,6 +1,7 @@
 {
   /* define the global layout */
 }
+import "@/styles/App.css";
 
 import type { AppProps } from "next/app";
 
